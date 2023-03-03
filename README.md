@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá! Eu sou o Richard Luiz Ribeiro Costa 🖐️
 
-<!--
-**RichardCosta16/RichardCosta16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contatos
+LinkedIn: https://www.linkedin.com/in/richardluiz/
+Email: richardluzircosta@gmail.com
+WhatsApp: +55 (35) 99962-8167
+RichardCosta16 GitHub stats
 
-Here are some ideas to get you started:
+Tecnologias que uso no meu dia
+C++ C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+c++ elixir express react-native vue bootstrap
+
+bootstrap jquery django
+
+Linguagens mais usadas nos meus repositórios
