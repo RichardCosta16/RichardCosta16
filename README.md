@@ -1,16 +1,23 @@
-Olá! Eu sou o Richard Luiz Ribeiro Costa 🖐️
+## Olá! Eu sou o Richard Luiz Ribeiro Costa 🖐️✌️
 
-Contatos
-LinkedIn: https://www.linkedin.com/in/richardluiz/
-Email: richardluzircosta@gmail.com
-WhatsApp: +55 (35) 99962-8167
-RichardCosta16 GitHub stats
+### Contatos 
+  - Linkeding: https://www.linkedin.com/in/richardluiz/
+  - Email: richardluizrcosta@gmail.com
+  - Instagram: https://www.instagram.com/richard_lrcosta/
+  - WhatsApp: +55 (35) 99962-8167
 
-Tecnologias que uso no meu dia
-C++ C
+![Richard_Costa16 GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardCosta16&show_icons=true&theme=cobalt)
 
-c++ elixir express react-native vue bootstrap
+## Tecnologias que uso no meu dia         
 
-bootstrap jquery django
+<div style="display: inline_block">  
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" height="30" width="30" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" height="30" width="30" />
+  <img align="center" src="https://www.hivemq.com/img/blog/mqtt-logo.jpg" height="30" width="30" />
+</div></br>
 
-Linguagens mais usadas nos meus repositórios
+## Linguagens mais usadas nos meus repositórios
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardCosta16&layout=compact"/>
+
