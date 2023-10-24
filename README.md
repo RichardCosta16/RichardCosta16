@@ -23,7 +23,6 @@
   <a href="https://discord.gg/NzdGBmSD" target="_blank"><img src="https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   <a href="https://www.twitch.tv/richard_c0sta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 
-  ![Snake animation](https://github.com/RichardCosta/RichardCosta16/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
