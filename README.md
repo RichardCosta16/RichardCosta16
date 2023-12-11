@@ -19,7 +19,7 @@
   <a href ="mailto:richardluizrcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richardluiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5535999628167" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%075E54?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a> 
-  <a href="https://discord.gg/uzYYe9rMRE" target="_blank"><img src="https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+  <a href="https://discord.gg/RSHCRWJMGW" target="_blank"><img src="https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   <a href="https://www.twitch.tv/richard_c0sta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
 
 </div>
